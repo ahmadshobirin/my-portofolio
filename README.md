@@ -11,7 +11,7 @@ My Portofolio
 
 ## Authors
 
-* **Ahmad Shobirin** - *Initial work* - [PurpleBooth](https://github.com/ahmadshobirin)
+* **Ahmad Shobirin** - *Initial work* - [Gihub](https://github.com/ahmadshobirin)
 
 <!-- See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project. -->
 
